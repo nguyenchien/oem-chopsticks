@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132.975px" height="34.95px" viewBox="0 0 132.975 34.95" enable-background="new 0 0 132.975 34.95" xml:space="preserve">
+<pattern  width="50" height="50" patternUnits="userSpaceOnUse" id="Unnamed_Pattern" viewBox="0 -50 50 50" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,-50 50,-50 50,0 0,0 		"/>
+		<polygon fill="#FFFFFF" points="0,-50 50,-50 50,0 0,0 		"/>
+		<polygon fill="#231815" points="50,-8 0,-8 0,0 50,0 		"/>
+		<polygon fill="#231815" points="42,0 50,0 50,-50 42,-50 		"/>
+	</g>
+</pattern>
+<g>
+	<g opacity="0.09">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" width="132.975" height="34.95"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			
+				<pattern  id="SVGID_3_" xlink:href="#Unnamed_Pattern" patternTransform="matrix(0.0696 -0.0696 -0.0696 -0.0696 -6988.9761 -8562.3926)">
+			</pattern>
+			<rect y="0.001" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="132.975" height="34.951"/>
+		</g>
+	</g>
+	<g opacity="0.23">
+		<g>
+			<defs>
+				<rect id="SVGID_4_" width="132.975" height="34.95"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_4_"  overflow="visible"/>
+			</clipPath>
+			<rect y="0.001" clip-path="url(#SVGID_5_)" fill="#FFFFFF" width="132.975" height="34.951"/>
+		</g>
+	</g>
+</g>
+</svg>
